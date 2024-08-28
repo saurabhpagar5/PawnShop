@@ -1,0 +1,651 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|c:\\ms.net\\project\\pawnshop[1]\\pawnshop\\views\\adminpanel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|solutionrelative:views\\adminpanel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|c:\\ms.net\\project\\pawnshop[1]\\pawnshop\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|c:\\ms.net\\project\\pawnshop[1]\\pawnshop\\controllers\\customerpanelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|solutionrelative:controllers\\customerpanelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|c:\\ms.net\\project\\pawnshop[1]\\pawnshop\\views\\adminpanel\\ordermanagement.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|solutionrelative:views\\adminpanel\\ordermanagement.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|c:\\ms.net\\project\\pawnshop[1]\\pawnshop\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|solutionrelative:views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|c:\\ms.net\\project\\pawnshop[1]\\pawnshop\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|c:\\ms.net\\project\\pawnshop[1]\\pawnshop\\views\\shared\\reglog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|solutionrelative:views\\shared\\reglog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|c:\\ms.net\\project\\pawnshop[1]\\pawnshop\\views\\products\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|solutionrelative:views\\products\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|c:\\ms.net\\project\\pawnshop[1]\\pawnshop\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|c:\\ms.net\\project\\pawnshop[1]\\pawnshop\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|solutionrelative:models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|c:\\ms.net\\project\\pawnshop[1]\\pawnshop\\models\\customerpanelviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|solutionrelative:models\\customerpanelviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|c:\\ms.net\\project\\pawnshop[1]\\pawnshop\\models\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|solutionrelative:models\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|c:\\ms.net\\project\\pawnshop[1]\\pawnshop\\views\\cartitems\\cartcheckout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|solutionrelative:views\\cartitems\\cartcheckout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|c:\\ms.net\\project\\pawnshop[1]\\pawnshop\\views\\orders\\payment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|solutionrelative:views\\orders\\payment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|c:\\ms.net\\project\\pawnshop[1]\\pawnshop\\views\\orders\\paymentsuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|solutionrelative:views\\orders\\paymentsuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|c:\\ms.net\\project\\pawnshop[1]\\pawnshop\\views\\customerpanel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|solutionrelative:views\\customerpanel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|c:\\ms.net\\project\\pawnshop[1]\\pawnshop\\views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|solutionrelative:views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|c:\\ms.net\\project\\pawnshop[1]\\pawnshop\\views\\customerpanel\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|solutionrelative:views\\customerpanel\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|c:\\ms.net\\project\\pawnshop[1]\\pawnshop\\views\\shared\\customer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|solutionrelative:views\\shared\\customer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|c:\\ms.net\\project\\pawnshop[1]\\pawnshop\\views\\shared\\head_foot.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|solutionrelative:views\\shared\\head_foot.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|c:\\ms.net\\project\\pawnshop[1]\\pawnshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|c:\\ms.net\\project\\pawnshop[1]\\pawnshop\\views\\customerpanel\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|solutionrelative:views\\customerpanel\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|c:\\ms.net\\project\\pawnshop[1]\\pawnshop\\views\\cartitems\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|solutionrelative:views\\cartitems\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|c:\\ms.net\\project\\pawnshop[1]\\pawnshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|c:\\ms.net\\project\\pawnshop[1]\\pawnshop\\views\\home\\productsbycategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|solutionrelative:views\\home\\productsbycategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|c:\\ms.net\\project\\pawnshop[1]\\pawnshop\\views\\cartitems\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|solutionrelative:views\\cartitems\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|c:\\ms.net\\project\\pawnshop[1]\\pawnshop\\views\\customerpanel\\productsbycategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|solutionrelative:views\\customerpanel\\productsbycategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|c:\\ms.net\\project\\pawnshop[1]\\pawnshop\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|solutionrelative:views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|c:\\ms.net\\project\\pawnshop[1]\\pawnshop\\views\\cartitems\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|solutionrelative:views\\cartitems\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|c:\\ms.net\\project\\pawnshop[1]\\pawnshop\\views\\cartitems\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|solutionrelative:views\\cartitems\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|c:\\ms.net\\project\\pawnshop[1]\\pawnshop\\views\\cartitems\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|solutionrelative:views\\cartitems\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|c:\\ms.net\\project\\pawnshop[1]\\pawnshop\\views\\customerpanel\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|solutionrelative:views\\customerpanel\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|c:\\ms.net\\project\\pawnshop[1]\\pawnshop\\wwwroot\\template\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|solutionrelative:wwwroot\\template\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|c:\\ms.net\\project\\pawnshop[1]\\pawnshop\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|solutionrelative:views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|c:\\ms.net\\project\\pawnshop[1]\\pawnshop\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|solutionrelative:views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|c:\\ms.net\\project\\pawnshop[1]\\pawnshop\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|c:\\ms.net\\project\\pawnshop[1]\\pawnshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|c:\\ms.net\\project\\pawnshop[1]\\pawnshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|c:\\ms.net\\project\\pawnshop[1]\\pawnshop\\models\\pawnshopeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCC7D9A2-6449-47A7-BF66-E6033D03E53D}|PawnShop.csproj|solutionrelative:models\\pawnshopeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderManagement.cshtml",
+              "DocumentMoniker": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Views\\AdminPanel\\OrderManagement.cshtml",
+              "RelativeDocumentMoniker": "Views\\AdminPanel\\OrderManagement.cshtml",
+              "ToolTip": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Views\\AdminPanel\\OrderManagement.cshtml",
+              "RelativeToolTip": "Views\\AdminPanel\\OrderManagement.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T05:59:36.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T04:19:52.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAA3wCEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T18:28:23.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegLog.cshtml",
+              "DocumentMoniker": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Views\\Shared\\RegLog.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\RegLog.cshtml",
+              "ToolTip": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Views\\Shared\\RegLog.cshtml",
+              "RelativeToolTip": "Views\\Shared\\RegLog.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAcwG0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T06:44:43.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Views\\AdminPanel\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\AdminPanel\\Index.cshtml",
+              "ToolTip": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Views\\AdminPanel\\Index.cshtml",
+              "RelativeToolTip": "Views\\AdminPanel\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACUAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T08:02:58.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Views\\Orders\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Orders\\Index.cshtml",
+              "ToolTip": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Views\\Orders\\Index.cshtml",
+              "RelativeToolTip": "Views\\Orders\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T06:43:58.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerPanelController.cs",
+              "DocumentMoniker": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Controllers\\CustomerPanelController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomerPanelController.cs",
+              "ToolTip": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Controllers\\CustomerPanelController.cs",
+              "RelativeToolTip": "Controllers\\CustomerPanelController.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAgwDAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T18:27:46.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PaymentSuccess.cshtml",
+              "DocumentMoniker": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Views\\Orders\\PaymentSuccess.cshtml",
+              "RelativeDocumentMoniker": "Views\\Orders\\PaymentSuccess.cshtml",
+              "ToolTip": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Views\\Orders\\PaymentSuccess.cshtml",
+              "RelativeToolTip": "Views\\Orders\\PaymentSuccess.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T04:21:57.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Payment.cshtml",
+              "DocumentMoniker": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Views\\Orders\\Payment.cshtml",
+              "RelativeDocumentMoniker": "Views\\Orders\\Payment.cshtml",
+              "ToolTip": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Views\\Orders\\Payment.cshtml",
+              "RelativeToolTip": "Views\\Orders\\Payment.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T06:34:42.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Views\\CustomerPanel\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\CustomerPanel\\Index.cshtml",
+              "ToolTip": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Views\\CustomerPanel\\Index.cshtml",
+              "RelativeToolTip": "Views\\CustomerPanel\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T14:10:02.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T18:28:11.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "Models\\Review.cs",
+              "ToolTip": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Models\\Review.cs",
+              "RelativeToolTip": "Models\\Review.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T07:53:35.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index1.cshtml",
+              "DocumentMoniker": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Views\\Products\\Index1.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Index1.cshtml",
+              "ToolTip": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Views\\Products\\Index1.cshtml",
+              "RelativeToolTip": "Views\\Products\\Index1.cshtml",
+              "ViewState": "AQIAADcAAAAAAAAAAAAcwFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T08:10:01.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeViewModel.cs",
+              "DocumentMoniker": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Models\\HomeViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\HomeViewModel.cs",
+              "ToolTip": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Models\\HomeViewModel.cs",
+              "RelativeToolTip": "Models\\HomeViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T04:11:01.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomerPanelViewModel.cs",
+              "DocumentMoniker": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Models\\CustomerPanelViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\CustomerPanelViewModel.cs",
+              "ToolTip": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Models\\CustomerPanelViewModel.cs",
+              "RelativeToolTip": "Models\\CustomerPanelViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T08:34:37.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CartCheckOut.cshtml",
+              "DocumentMoniker": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Views\\CartItems\\CartCheckOut.cshtml",
+              "RelativeDocumentMoniker": "Views\\CartItems\\CartCheckOut.cshtml",
+              "ToolTip": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Views\\CartItems\\CartCheckOut.cshtml",
+              "RelativeToolTip": "Views\\CartItems\\CartCheckOut.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAC0AAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T06:41:35.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Views\\CustomerPanel\\Profile.cshtml",
+              "RelativeDocumentMoniker": "Views\\CustomerPanel\\Profile.cshtml",
+              "ToolTip": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Views\\CustomerPanel\\Profile.cshtml",
+              "RelativeToolTip": "Views\\CustomerPanel\\Profile.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T05:30:40.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Customer.cshtml",
+              "DocumentMoniker": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Views\\Shared\\Customer.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Customer.cshtml",
+              "ToolTip": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Views\\Shared\\Customer.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Customer.cshtml",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAAAJgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T06:46:40.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Head_Foot.cshtml",
+              "DocumentMoniker": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Views\\Shared\\Head_Foot.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Head_Foot.cshtml",
+              "ToolTip": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Views\\Shared\\Head_Foot.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Head_Foot.cshtml",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAAAG0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T06:45:08.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAkwE0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T18:28:01.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ContactUs.cshtml",
+              "DocumentMoniker": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Views\\Home\\ContactUs.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\ContactUs.cshtml",
+              "ToolTip": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Views\\Home\\ContactUs.cshtml",
+              "RelativeToolTip": "Views\\Home\\ContactUs.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T06:09:09.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ContactUs.cshtml",
+              "DocumentMoniker": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Views\\CustomerPanel\\ContactUs.cshtml",
+              "RelativeDocumentMoniker": "Views\\CustomerPanel\\ContactUs.cshtml",
+              "ToolTip": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Views\\CustomerPanel\\ContactUs.cshtml",
+              "RelativeToolTip": "Views\\CustomerPanel\\ContactUs.cshtml",
+              "ViewState": "AQIAACsAAAAAAAAAAADwvzsAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T06:10:53.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Views\\CartItems\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\CartItems\\Index.cshtml",
+              "ToolTip": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Views\\CartItems\\Index.cshtml",
+              "RelativeToolTip": "Views\\CartItems\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T11:22:38.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Views\\CartItems\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\CartItems\\Edit.cshtml",
+              "ToolTip": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Views\\CartItems\\Edit.cshtml",
+              "RelativeToolTip": "Views\\CartItems\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T14:17:10.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAN4AAAAAAAAAAAAAAO4AAAB7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T14:08:48.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProductsByCategory.cshtml",
+              "DocumentMoniker": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Views\\Home\\ProductsByCategory.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\ProductsByCategory.cshtml",
+              "ToolTip": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Views\\Home\\ProductsByCategory.cshtml",
+              "RelativeToolTip": "Views\\Home\\ProductsByCategory.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T04:28:14.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Views\\CartItems\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\CartItems\\Create.cshtml",
+              "ToolTip": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Views\\CartItems\\Create.cshtml",
+              "RelativeToolTip": "Views\\CartItems\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T06:41:48.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Views\\CustomerPanel\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\CustomerPanel\\Details.cshtml",
+              "ToolTip": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Views\\CustomerPanel\\Details.cshtml",
+              "RelativeToolTip": "Views\\CustomerPanel\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T03:15:27.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Views\\CartItems\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\CartItems\\Delete.cshtml",
+              "ToolTip": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Views\\CartItems\\Delete.cshtml",
+              "RelativeToolTip": "Views\\CartItems\\Delete.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T14:17:51.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProductsByCategory.cshtml",
+              "DocumentMoniker": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Views\\CustomerPanel\\ProductsByCategory.cshtml",
+              "RelativeDocumentMoniker": "Views\\CustomerPanel\\ProductsByCategory.cshtml",
+              "ToolTip": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Views\\CustomerPanel\\ProductsByCategory.cshtml",
+              "RelativeToolTip": "Views\\CustomerPanel\\ProductsByCategory.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACYAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T04:30:01.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "Views\\Home\\Details.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAADEAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T02:57:37.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Views\\CartItems\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\CartItems\\Details.cshtml",
+              "ToolTip": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Views\\CartItems\\Details.cshtml",
+              "RelativeToolTip": "Views\\CartItems\\Details.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T10:07:12.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\css\\style.css",
+              "RelativeDocumentMoniker": "wwwroot\\template\\css\\style.css",
+              "ToolTip": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\css\\style.css",
+              "RelativeToolTip": "wwwroot\\template\\css\\style.css",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAowFgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-16T03:44:24.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Views\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Details.cshtml",
+              "ToolTip": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Views\\Products\\Details.cshtml",
+              "RelativeToolTip": "Views\\Products\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T10:08:27.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Views\\Login\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Login\\Login.cshtml",
+              "ToolTip": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Views\\Login\\Login.cshtml",
+              "RelativeToolTip": "Views\\Login\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T06:46:19.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T10:28:04.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAAADkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T18:26:16.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-14T18:26:40.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "PawnShopeeContext.cs",
+              "DocumentMoniker": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Models\\PawnShopeeContext.cs",
+              "RelativeDocumentMoniker": "Models\\PawnShopeeContext.cs",
+              "ToolTip": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\Models\\PawnShopeeContext.cs",
+              "RelativeToolTip": "Models\\PawnShopeeContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T18:25:34.437Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

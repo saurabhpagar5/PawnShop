@@ -1,0 +1,45 @@
+﻿
+@{
+    ViewData["Title"] = "Login";
+    Layout = "~/Views/Shared/RegLog.cshtml";
+}
+
+<form asp-action="Index" method="post" style="align-items=center">
+
+	<div class="form-container">
+		<p class="title">Login</p>
+		<form class="form">
+			<div class="input-group1">
+				<label for="email">Email</label>
+				<input type="email" name="email" id="email" placeholder="Enter Email Id" required>
+			</div>
+			<div class="input-group1">
+				<label for="password">Password</label>
+				<input type="password" name="password" id="password" placeholder="Password" required>
+				<div class="forgot">
+					<a rel="noopener noreferrer" href="#">Forgot Password ?</a>
+				</div>
+			</div>
+			<button asp-controller="Login" asp-action="Login" class="sign">Sign in</button>
+		</form>
+		<div class="social-message">
+			<div class="line"></div>
+			@* <p class="message">Login with social accounts</p> *@
+			<div class="line"></div>
+		</div>
+	
+		<p class="signup">
+			Don't have an account?
+			<a asp-action="Register">Sign up</a>
+		</p>
+	</div>
+    
+</form>
+<div style=" text-align:right">
+ @if (ViewBag.ErrorMessage != null)
+{
+    <div class="error-message">
+			<h4>@ViewBag.ErrorMessage</h4>
+    </div>
+} 
+</div>

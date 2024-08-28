@@ -1,0 +1,87 @@
+﻿@model PawnShop.Models.CartItem
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/Customer.cshtml";
+}
+
+<!-- Page Header Start -->
+<div class="container-fluid bg-secondary mb-5">
+    <div class="d-flex flex-column align-items-center justify-content-center" style="min-height: 300px">
+        <h1 class="font-weight-semi-bold text-uppercase mb-3">Shopping Cart</h1>
+        <div class="d-inline-flex">
+            <p class="m-0"><a asp-controller ="CustomerPanel" asp-action="Index">Shopping Cart</a></p>
+            <p class="m-0 px-2">-</p>
+            <p class="m-0">Edit Quantity</p>
+        </div>
+    </div>
+</div>
+<!-- Page Header End -->
+
+<div class="container mt-4">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <form asp-action="Edit">
+                <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+                <input type="hidden" asp-for="CartItemId" />
+
+                <!-- Cart ID Selection -->
+              @*   <div class="form-group">
+                    <label asp-for="CartId" class="control-label font-weight-bold"></label>
+                    <select asp-for="CartId" class="form-control">
+                        <option value="">Select Cart</option>
+                        @foreach (var item in ViewBag.CartId)
+                        {
+                            <option value="@item.Value">@item.Text</option>
+                        }
+                    </select>
+                    <span asp-validation-for="CartId" class="text-danger"></span>
+                </div> *@
+
+                <!-- Product ID Selection -->
+                  <div class="form-group">
+                    <label asp-for="ProductId" class="control-label font-weight-bold"></label>
+                    <select asp-for="ProductId" class="form-control">
+                        <option value="">Select Product</option>
+                        @foreach (var item in ViewBag.ProductId)
+                        {
+                            <option value="@item.Value">@item.Text</option>
+                        }
+                    </select>
+                    <span asp-validation-for="ProductId" class="text-danger"></span>
+                </div>  
+
+                <!-- Quantity Input -->
+                <div class="form-group">
+                    <label asp-for="Quantity" class="control-label font-weight-bold"></label>
+                    <input asp-for="Quantity" class="form-control" />
+                    <span asp-validation-for="Quantity" class="text-danger"></span>
+                </div>
+
+                <!-- Added Date Input -->
+                <div class="form-group">
+                    <label asp-for="AddedDate" class="control-label font-weight-bold"></label>
+                    <input asp-for="AddedDate" class="form-control" />
+                    <span asp-validation-for="AddedDate" class="text-danger"></span>
+                </div>
+
+                <!-- Submit Button -->
+                <div class="form-group text-right">
+                    <input type="submit" value="Save" class="btn btn-primary" />
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <!-- Back to List Link -->
+    <div class="row mt-3">
+        <div class="col-md-6 text-left">
+            <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+        </div>
+    </div>
+</div>
+
+
+@*  @section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}  *@

@@ -1,0 +1,100 @@
+/* _content/PawnShop/Views/AdminPanel/Index.cshtml.rz.scp.css */
+.admin_dashboard_main[b-v781y40ztt]{
+    left-margin:20px;
+}
+/* _content/PawnShop/Views/AdminPanel/ProductManagement.cshtml.rz.scp.css */
+.card[b-fupdcnuu21] {
+    background-color: white;
+    width: 18rem; /* equivalent to w-72 */
+    height: 12rem; /* equivalent to h-48 */
+    border-radius: 0.375rem; /* equivalent to rounded-md */
+    padding: 1rem 1.5rem; /* equivalent to py-4 px-6 */
+    border: 1px solid #e5e7eb; /* default Tailwind border color */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.card-actions[b-fupdcnuu21] {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0.75rem 0; /* equivalent to py-3 */
+}
+
+.action[b-fupdcnuu21] {
+    display: flex;
+    gap: 0.5rem; /* equivalent to gap-2 */
+    color: #4b5563; /* equivalent to text-gray-600 */
+    transition: transform 0.2s;
+    cursor: pointer;
+}
+
+    .action:hover[b-fupdcnuu21] {
+        transform: scale(1.1); /* equivalent to hover:scale-110 */
+    }
+
+.edit .icon[b-fupdcnuu21] {
+    width: 1.5rem; /* equivalent to w-6 */
+    stroke: #047857; /* equivalent to stroke-green-700 */
+}
+
+.delete .icon[b-fupdcnuu21] {
+    width: 1.5rem; /* equivalent to w-6 */
+    stroke: #b91c1c; /* equivalent to stroke-red-700 */
+}
+
+.button-text[b-fupdcnuu21] {
+    font-weight: 600; /* equivalent to font-semibold */
+    font-size: 0.875rem; /* equivalent to text-sm */
+    color: inherit;
+}
+/* _content/PawnShop/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-ntetzx7dvo] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-ntetzx7dvo] {
+  color: #0077cc;
+}
+
+.btn-primary[b-ntetzx7dvo] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-ntetzx7dvo], .nav-pills .show > .nav-link[b-ntetzx7dvo] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-ntetzx7dvo] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-ntetzx7dvo] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-ntetzx7dvo] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-ntetzx7dvo] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-ntetzx7dvo] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}

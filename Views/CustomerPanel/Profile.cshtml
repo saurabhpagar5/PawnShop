@@ -1,0 +1,32 @@
+﻿@model PawnShop.Models.User
+
+@{
+    ViewData["Title"] = "User Profile";
+    Layout = "~/Views/Shared/Customer.cshtml";
+}
+
+
+<div class="container mt-4">
+    <h2>User Profile</h2>
+    <hr />
+    <div>
+        <h4>Profile Information</h4>
+        <dl class="row">
+            <dt class="col-sm-3 font-weight-bold">Name</dt>
+            <dd class="col-sm-9">@Model.Name</dd>
+
+            <dt class="col-sm-3 font-weight-bold">Email</dt>
+            <dd class="col-sm-9">@Model.Email</dd>
+
+            <dt class="col-sm-3 font-weight-bold">Phone</dt>
+            <dd class="col-sm-9">@Model.Phone</dd>
+
+            <dt class="col-sm-3 font-weight-bold">Address</dt>
+            <dd class="col-sm-9">@Model.Address</dd>
+        </dl>
+
+        <a asp-action="Edit Profile" class="btn btn-primary">Edit Profile</a>
+    </div>
+</div>
+
+

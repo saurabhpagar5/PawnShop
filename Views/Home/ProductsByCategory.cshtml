@@ -1,0 +1,63 @@
+﻿@model PawnShop.Models.HomeViewModel
+@{
+    ViewData["Title"] = "ProductsByCategory";
+    Layout = "~/Views/Shared/Head_Foot.cshtml";
+}
+
+<div class="container-fluid pt-5">
+    <div class="text-center mb-4">
+        <h2 class="section-title px-5"><span class="px-2">@ViewBag.CategoryName</span></h2>
+    </div>
+    <div class="row px-xl-5 pb-3">
+        @try
+        {
+            @if (Model.AllProducts != null && Model.AllProducts.Any())
+            {
+                var products = Model.AllProducts.Take(9).ToList(); // Take the first 9 products
+
+                for (int i = 0; i < products.Count; i += 3) // Loop through products in sets of 3
+                {
+                    <div class="row">
+                        @for (int j = i; j < i + 3 && j < products.Count; j++) // Loop through 3 items in each row
+                        {
+                            <div class="col-lg-4 col-md-6 col-sm-12 pb-1">
+                                <div class="card product-item border-0 mb-4">
+                                    <div class="card-header product-img position-relative overflow-hidden bg-transparent border p-0">
+                                        <img src="@products[j].ImagePath" alt="@products[j].Name" class="custom-product-image img-fluid product-image" />
+                                    </div>
+                                    <div class="card-body border-left border-right text-center p-0 pt-4 pb-3">
+                                        <h6 class="text-truncate mb-3">@products[j].Name</h6>
+                                        <div class="d-flex justify-content-center">
+                                            <h6>₹@products[j].Price</h6>
+                                            <h6 class="text-muted ml-2"><del></del></h6>
+                                        </div>
+                                    </div>
+                                    <div class="card-footer d-flex justify-content-between bg-light border">
+                                        <a asp-controller="Home" asp-action="Details" asp-route-id="@products[j].ProductId" class="btn btn-sm text-dark p-0">
+                                            <i class="fas fa-eye text-primary mr-1"></i>View Detail
+                                        </a>
+                                        <form class="m-0">
+                                            <button asp-controller="Login" asp-action="Login" class="btn btn-sm text-dark p-0">
+                                                <i class="fas fa-shopping-cart text-primary mr-1"></i>Add to Cart
+                                            </button>
+                                        </form>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    </div>
+                }
+            }
+            else
+            {
+                <p>No products available for this category.</p>
+            }
+        }
+        catch (Exception ex)
+        {
+            <p>Error: @ex.Message</p>
+        }
+    </div>
+</div>
+
+

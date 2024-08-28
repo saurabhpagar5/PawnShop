@@ -1,0 +1,312 @@
+﻿@model PawnShop.Models.HomeViewModel
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/Head_Foot.cshtml";
+}
+
+
+<!-- Featured Start 
+    <div class="row px-xl-5 pb-3">
+        <div class="col-lg-3 col-md-6 col-sm-12 pb-1">
+            <div class="d-flex align-items-center border mb-4" style="padding: 30px;">
+                <h1 class="fa fa-check text-primary m-0 mr-3"></h1>
+                <h5 class="font-weight-semi-bold m-0">Quality Product</h5>
+            </div>
+        </div>
+        <div class="col-lg-3 col-md-6 col-sm-12 pb-1">
+            <div class="d-flex align-items-center border mb-4" style="padding: 30px;">
+                <h1 class="fa fa-shipping-fast text-primary m-0 mr-2"></h1>
+                <h5 class="font-weight-semi-bold m-0">Free Shipping</h5>
+            </div>
+        </div>
+        <div class="col-lg-3 col-md-6 col-sm-12 pb-1">
+            <div class="d-flex align-items-center border mb-4" style="padding: 30px;">
+                <h1 class="fas fa-exchange-alt text-primary m-0 mr-3"></h1>
+                <h5 class="font-weight-semi-bold m-0">14-Day Return</h5>
+            </div>
+        </div>
+        <div class="col-lg-3 col-md-6 col-sm-12 pb-1">
+            <div class="d-flex align-items-center border mb-4" style="padding: 30px;">
+                <h1 class="fa fa-phone-volume text-primary m-0 mr-3"></h1>
+                <h5 class="font-weight-semi-bold m-0">24/7 Support</h5>
+            </div>
+        </div>
+    </div>
+</div> -->
+<!-- Featured End -->
+<!-- Categories Start -->
+<div class="container-fluid pt-5">
+    <div class="row px-xl-5 pb-3">
+        <div class="col-lg-4 col-md-6 pb-1">
+            <div class="cat-item d-flex flex-column border mb-4" style="padding: 30px;">
+            @*     <p class="text-right">15 Products</p> *@
+                <a asp-controller="Home" asp-action="ProductsByCategory" asp-route-categoryId="1" 
+                        class="cat-img position-relative overflow-hidden mb-3">
+                    <img class="img-fluid" src="~/template/img/Oldcurrency1.jpg" alt="">
+                </a>
+                <h5 class="font-weight-semi-bold m-0">Coins & Currency</h5>
+            </div>
+        </div>
+        <div class="col-lg-4 col-md-6 pb-1">
+            <div class="cat-item d-flex flex-column border mb-4" style="padding: 30px;">
+               @*  <p class="text-right">15 Products</p> *@
+                <a asp-controller="Home" asp-action="ProductsByCategory" asp-route-categoryId="2" class="cat-img position-relative overflow-hidden mb-3">
+                    <img class="img-fluid" src="~/template/img/art (1).webp" alt="">
+                </a>
+                <h5 class="font-weight-semi-bold m-0">Fine Art</h5>
+            </div>
+        </div>
+        <div class="col-lg-4 col-md-6 pb-1">
+            <div class="cat-item d-flex flex-column border mb-4" style="padding: 30px;">
+               @*  <p class="text-right">15 Products</p> *@
+                <a asp-controller ="Home" asp-action="ProductsByCategory" asp-route-categoryId="7" class="cat-img position-relative overflow-hidden mb-3">
+                    <img class="img-fluid" src="~/template/img/military.jpg" alt="">
+                </a>
+                <h5 class="font-weight-semi-bold m-0">Militaria & History</h5>
+            </div>
+        </div>
+        <div class="col-lg-4 col-md-6 pb-1">
+            <div class="cat-item d-flex flex-column border mb-4" style="padding: 30px;">
+               @*  <p class="text-right">15 Products</p> *@
+                <a asp-controller="Home" asp-action="ProductsByCategory" asp-route-categoryId="4" class="cat-img position-relative overflow-hidden mb-3">
+                    <img class="img-fluid" src="~/template/img/Watches.jpg" alt="">
+                </a>
+                <h5 class="font-weight-semi-bold m-0">Watches</h5>
+            </div>
+        </div>
+        <div class="col-lg-4 col-md-6 pb-1">
+            <div class="cat-item d-flex flex-column border mb-4" style="padding: 30px;">
+               @*  <p class="text-right">15 Products</p> *@
+                <a asp-controller="Home" asp-action="ProductsByCategory" asp-route-categoryId="8" class="cat-img position-relative overflow-hidden mb-3">
+                    <img class="img-fluid" src="~/template/img/Comic.jpg" alt="">
+                </a>
+                <h5 class="font-weight-semi-bold m-0">Comics</h5>
+            </div>
+        </div>
+        <div class="col-lg-4 col-md-6 pb-1">
+            <div class="cat-item d-flex flex-column border mb-4" style="padding: 30px;">
+                @* <p class="text-right">15 Products</p> *@
+                <a asp-controller="Home" asp-action="ProductsByCategory" asp-route-categoryId="6" class="cat-img position-relative overflow-hidden mb-3">
+                    <img class="img-fluid" src="~/template/img/Toys.jpg" alt="">
+                </a>
+                <h5 class="font-weight-semi-bold m-0">Toys</h5>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Categories End -->
+<!-- Offer Start -->
+@* <div class="container-fluid offer pt-5">
+    <div class="row px-xl-5">
+        <div class="col-md-6 pb-4">
+            <div class="position-relative bg-secondary text-center text-md-right text-white mb-2 py-5 px-5">
+                <img src="~/template/img/offer-1.png" alt="">
+                <div class="position-relative" style="z-index: 1;">
+                    <h5 class="text-uppercase text-primary mb-3">5% off the all order</h5>
+                    <h1 class="mb-4 font-weight-semi-bold">Spring Collection</h1>
+                     <a href="" class="btn btn-outline-primary py-md-2 px-md-3">Shop Now</a> 
+                </div>
+            </div>
+        </div>
+        <div class="col-md-6 pb-4">
+            <div class="position-relative bg-secondary text-center text-md-left text-white mb-2 py-5 px-5">
+                <img src="~/template/img/offer-2.png" alt="">
+                <div class="position-relative" style="z-index: 1;">
+                    <h5 class="text-uppercase text-primary mb-3">8% off the all order</h5>
+                    <h1 class="mb-4 font-weight-semi-bold">Winter Collection</h1>
+                    <a href="" class="btn btn-outline-primary py-md-2 px-md-3">Shop Now</a> 
+                </div>
+            </div>
+        </div>
+    </div>
+</div> *@
+<!-- Offer End -->
+
+
+<!-- Collectibles Products Start -->
+<div class="container-fluid pt-5">
+    <div class="text-center mb-4">
+        <h2 class="section-title px-5"><span class="px-2">Collectibles</span></h2>
+    </div>
+    <div class="row px-xl-5 pb-3">
+        @try
+        {
+            @if (Model.AllProducts != null && Model.AllProducts.Any())
+            {
+                var products = Model.AllProducts.Take(9).ToList(); // Take the first 9 products
+
+                for (int i = 0; i < products.Count; i += 3) // Loop through products in sets of 3
+                {
+                    <div class="row">
+                        @for (int j = i; j < i + 3 && j < products.Count; j++) // Loop through 3 items in each row
+                        {
+                            <div class="col-lg-4 col-md-6 col-sm-12 pb-1">
+                                <div class="card product-item border-0 mb-4">
+                                    <div class="card-header product-img position-relative overflow-hidden bg-transparent border p-0">
+                                        <img src="@products[j].ImagePath" alt="@products[j].Name" class="custom-product-image img-fluid product-image" />
+                                    </div>
+                                    <div class="card-body border-left border-right text-center p-0 pt-4 pb-3">
+                                        <h6 class="text-truncate mb-3">@products[j].Name</h6>
+                                        <div class="d-flex justify-content-center">
+                                            <h6>₹@products[j].Price</h6><h6 class="text-muted ml-2"><del></del></h6>
+                                        </div>
+                                    </div>
+                                    <div class="card-footer d-flex justify-content-between bg-light border">
+                                        <a asp-controller="Home" asp-action="Details" asp-route-Id="@products[j].ProductId" class="btn btn-sm text-dark p-0">
+                                            <i class="fas fa-eye text-primary mr-1"></i>View Detail
+                                        </a>
+                                        <form  class="m-0">
+                                          
+                                            <button asp-controller="Login" asp-action="Login"  class="btn btn-sm text-dark p-0">
+                                                <i class="fas fa-shopping-cart text-primary mr-1"></i>Add to Cart
+                                            </button>
+                                        </form>
+                                     @*    <form asp-action="AddToWishlist" method="post" class="m-0">
+                                            <input type="hidden" name="ProductId" value="@products[j].ProductId" />
+                                            <button type="submit" class="btn btn-sm text-dark p-0">
+                                                <i class="fas fa-heart text-primary mr-1"></i>Add to Wishlist
+                                            </button>
+                                        </form> *@
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    </div>
+                }
+            }
+            else
+            {
+                <p>No products available.</p>
+            }
+        }
+        catch (Exception ex)
+        {
+            <p>Error: @ex.Message</p>
+        }
+    </div>
+</div>
+
+<!-- Products End -->
+<!-- Subscribe Start -->
+@* <div class="container-fluid bg-secondary my-5">
+    <div class="row justify-content-md-center py-5 px-xl-5">
+        <div class="col-md-6 col-12 py-5">
+            <div class="text-center mb-2 pb-2">
+                <h2 class="section-title px-5 mb-3"><span class="bg-secondary px-2">Stay Updated</span></h2>
+                <p>Amet lorem at rebum amet dolores. Elitr lorem dolor sed amet diam labore at justo ipsum eirmod duo labore labore.</p>
+            </div>
+            <form action="">
+                <div class="input-group">
+                    <input type="text" class="form-control border-white p-4" placeholder="Email Goes Here">
+                    <div class="input-group-append">
+                        <button class="btn btn-primary px-4">Subscribe</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+ *@<!-- Subscribe End -->
+<!-- new Arrived Products Start -->
+<div class="container-fluid pt-5">
+    <div class="text-center mb-4">
+        <h2 id="Arrive" class="section-title px-5"><span class="px-2">New Arrived</span></h2>
+    </div>
+    <div class="row px-xl-5 pb-3">
+        @try
+        {
+            @if (Model.LatestProducts != null && Model.LatestProducts.Any())
+            {
+                var products = Model.LatestProducts.Take(9).ToList(); // Take the first 9 products
+
+                for (int i = 0; i < products.Count; i += 3) // Loop through products in sets of 3
+                {
+                    <div class="row">
+                        @for (int j = i; j < i + 3 && j < products.Count; j++) // Loop through 3 items in each row
+                        {
+                            <div class="col-lg-4 col-md-6 col-sm-12 pb-1">
+                                <div class="card product-item border-0 mb-4">
+                                    <div class="card-header product-img position-relative overflow-hidden bg-transparent border p-0">
+                                        <img src="@products[j].ImagePath" alt="@products[j].Name" class="custom-product-image img-fluid product-image" />
+                                    </div>
+                                    <div class="card-body border-left border-right text-center p-0 pt-4 pb-3">
+                                        <h6 class="text-truncate mb-3">@products[j].Name</h6>
+                                        <div class="d-flex justify-content-center">
+                                            <h6>₹@products[j].Price</h6><h6 class="text-muted ml-2"><del></del></h6>
+                                        </div>
+                                    </div>
+                                    <div class="card-footer d-flex justify-content-between bg-light border">
+                                        <a asp-controller="Home" asp-action="Details" asp-route-Id="@products[j].ProductId" class="btn btn-sm text-dark p-0">
+                                            <i class="fas fa-eye text-primary mr-1"></i>View Detail
+                                        </a>
+
+                                        <!-- Form to add to cart -->
+                                        <form asp-action="AddToCart" method="post" class="m-0">
+                                            <input type="hidden" name="ProductId" value="@products[j].ProductId" />
+                                            <button type="submit" class="btn btn-sm text-dark p-0">
+                                                <i class="fas fa-shopping-cart text-primary mr-1"></i>Add to Cart
+                                            </button>
+                                        </form>
+
+                                        <!-- Form to add to wishlist -->
+                                      @*   <form asp-action="AddToWishlist" method="post" class="m-0">
+                                            <input type="hidden" name="ProductId" value="@products[j].ProductId" />
+                                            <button type="submit" class="btn btn-sm text-dark p-0">
+                                                <i class="fas fa-heart text-primary mr-1"></i>Add to Wishlist
+                                            </button>
+                                        </form> *@
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    </div>
+                }
+            }
+            else
+            {
+                <p>No products available.</p>
+            }
+        }
+        catch (Exception ex)
+        {
+            <p>Error: @ex.Message</p>
+        }
+    </div>
+</div>
+
+<!-- new product Products End -->
+<!-- Vendor Start
+<div class="container-fluid py-5">
+    <div class="row px-xl-5">
+        <div class="col">
+            <div class="owl-carousel vendor-carousel">
+                <div class="vendor-item border p-4">
+                    <img src="~/template/img/vendor-1.jpg" alt="">
+                </div>
+                <div class="vendor-item border p-4">
+                    <img src="~/template/img/vendor-2.jpg" alt="">
+                </div>
+                <div class="vendor-item border p-4">
+                    <img src="~/template/img/vendor-3.jpg" alt="">
+                </div>
+                <div class="vendor-item border p-4">
+                    <img src="~/template/img/vendor-4.jpg" alt="">
+                </div>
+                <div class="vendor-item border p-4">
+                    <img src="~/template/img/vendor-5.jpg" alt="">
+                </div>
+                <div class="vendor-item border p-4">
+                    <img src="~/template/img/vendor-6.jpg" alt="">
+                </div>
+                <div class="vendor-item border p-4">
+                    <img src="~/template/img/vendor-7.jpg" alt="">
+                </div>
+                <div class="vendor-item border p-4">
+                    <img src="~/template/img/vendor-8.jpg" alt="">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>  -->
+<!-- Vendor End -->
+

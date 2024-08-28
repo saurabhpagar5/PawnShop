@@ -1,0 +1,55 @@
+﻿@model IEnumerable<PawnShop.Models.CartItem>
+@{
+    ViewData["Title"] = "CheckOut";
+    Layout = "~/Views/Shared/Customer.cshtml";
+}
+
+<!-- Page Header Start -->
+<div class="container-fluid bg-secondary mb-5">
+    <div class="d-flex flex-column align-items-center justify-content-center" style="min-height: 300px">
+        <h1 class="font-weight-semi-bold text-uppercase mb-3">Shopping Cart</h1>
+        <div class="d-inline-flex">
+            <p class="m-0"><a href="">Home</a></p>
+            <p class="m-0 px-2">-</p>
+            <p class="m-0">Shopping Cart</p>
+        </div>
+    </div>
+</div>
+<!-- Page Header End -->
+<<div class="container mt-4 p-4 border rounded shadow-sm bg-light">
+    <h4 class="mb-4 text-primary">Shopping Cart checkOut</h4>
+    <hr />
+
+    <table class="table table-striped table-bordered">
+        <thead class="thead-dark">
+            <tr>
+                <th>Product</th>
+                <th>Quantity</th>
+                <th>Price</th>
+                <th>Total</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Product.Name</td>
+                    <td>@item.Quantity</td>
+                    <td>₹@item.Product.Price</td>
+                    <td>₹@(item.Quantity * item.Product.Price)</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <div class="text-right mb-4">
+        <h5 class="font-weight-bold">Grand Total: ₹@Model.Sum(item => item.Quantity * item.Product.Price)</h5>
+    </div>
+
+    <div class="d-flex justify-content-between mt-4">
+        <a asp-controller="CustomerPanel" asp-action="Index" class="btn btn-secondary">Continue Shopping</a>
+        <form asp-controller="Orders" asp-action="Index" method="post">
+            <button type="submit" class="btn btn-primary">Pay Securely</button>
+        </form>
+    </div>
+</div>

@@ -1,0 +1,75 @@
+﻿@{
+    ViewData["Title"] = "Admin Dashboard";
+    Layout = "~/Views/Shared/Admin_Header_Footer.cshtml";
+}
+<div class="container-fluid pt-5">
+    <div class="row px-xl-5">
+        <div class="col-lg-8">
+            <div class="mb-4">                 
+            <h1>Welcome to the Admin Dashboard</h1>
+            </div>
+        </div>
+    </div>
+</div>
+
+    <div class="container-fluid pt-5">
+        <div class="row px-xl-5 pb-3">
+            <div class="col-lg-4 col-md-6 pb-1">
+                <div class="cat-item d-flex flex-column border mb-4" style="padding: 30px;">
+                    <h5 class="font-weight-semi-bold m-0">
+                    <a asp-controller="Products" asp-action="Index1">Product Management</a>
+                    </h5>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 pb-1">
+                <div class="cat-item d-flex flex-column border mb-4" style="padding: 30px;">
+                    <h5 class="font-weight-semi-bold m-0">
+                        <a href="/Users/Index">User Management</a>
+                    </h5>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 pb-1">
+                <div class="cat-item d-flex flex-column border mb-4" style="padding: 30px;">
+                    <h5 class="font-weight-semi-bold m-0">
+                    <a asp-controller="AdminPanel" asp-action="OrderManagement">Order Management</a>
+                    </h5>
+                </div>
+            </div>
+            @* <div class="col-lg-4 col-md-6 pb-1">
+                <div class="cat-item d-flex flex-column border mb-4" style="padding: 30px;">
+                    <h5 class="font-weight-semi-bold m-0">
+                        <a href="/AdminPanel/PaymentManagement">Payment Integration</a>
+                    </h5>
+                </div>
+            </div> *@
+            <div class="col-lg-4 col-md-6 pb-1">
+                <div class="cat-item d-flex flex-column border mb-4" style="padding: 30px;">
+                    <h5 class="font-weight-semi-bold m-0">
+                        <a href="/Coupons/Index">Promotions and Discounts</a>
+                    </h5>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 pb-1">
+                <div class="cat-item d-flex flex-column border mb-4" style="padding: 30px;">
+                    <h5 class="font-weight-semi-bold m-0">
+                    <a href="/Categories/Index">Category Management</a>
+                    </h5>
+                </div>
+            </div>
+           @*  <div class="col-lg-4 col-md-6 pb-1">
+                <div class="cat-item d-flex flex-column border mb-4" style="padding: 30px;">
+                    <h5 class="font-weight-semi-bold m-0">
+                        <a href="/AdminPanel/Reporting">Reporting and Analytics</a>
+                    </h5>
+                </div>
+            </div> *@
+            <div class="col-lg-4 col-md-6 pb-1">
+                <div class="cat-item d-flex flex-column border mb-4" style="padding: 30px;">
+                    <h5 class="font-weight-semi-bold m-0">
+                        <a href="/Reviews/Index">Content Management</a>
+                    </h5>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

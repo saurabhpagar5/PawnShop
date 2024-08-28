@@ -1,0 +1,36 @@
+﻿@model IEnumerable<PawnShop.Models.Coupon>
+
+@{
+    ViewData["Title"] = "Promotions Management";
+    Layout = "~/Views/Shared/Admin_Header_Footer.cshtml";
+}
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<h2>Promotions Management</h2>
+
+  <div class="row px-xl-5">
+    <div class="col-lg-12 table-responsive mb-5">
+        <table class="table table-bordered text-center mb-0" style="width:auto">
+            <thead class="bg-secondary text-dark">
+                <tr>
+                    <th>Coupon Code</th>
+                    <th>Description</th>
+                    <th>Discount</th>
+                    <th>Expiry Date</th>
+                </tr>
+    </thead>
+            <tbody class="align-middle">
+        @foreach (var coupon in Model)
+        {
+            <tr>
+                <td class="align-middle">@coupon.Code</td>
+                <td class="align-middle">@coupon.UsageLimit</td>
+                <td class="align-middle">@coupon.DiscountPercentage.ToString("P")</td>
+                <td class="align-middle">@coupon.EndDate.ToString("d")</td>
+            </tr>
+        }
+    </tbody>
+</table>

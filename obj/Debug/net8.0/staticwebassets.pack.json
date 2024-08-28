@@ -1,0 +1,929 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PawnShop.bundle.scp.css",
+      "PackagePath": "staticwebassets\\PawnShop.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\Logintemp\\css\\Regi.css",
+      "PackagePath": "staticwebassets\\Logintemp\\css\\Regi.css"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\Logintemp\\css\\login.css",
+      "PackagePath": "staticwebassets\\Logintemp\\css\\login.css"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\images\\CustomerPanel.png",
+      "PackagePath": "staticwebassets\\images\\CustomerPanel.png"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\images\\Homepage.png",
+      "PackagePath": "staticwebassets\\images\\Homepage.png"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\images\\Logo\\PS.jfif",
+      "PackagePath": "staticwebassets\\images\\Logo\\PS.jfif"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\images\\Logo\\Pawn_Shopee.jfif",
+      "PackagePath": "staticwebassets\\images\\Logo\\Pawn_Shopee.jfif"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\images\\Product\\mobiles.jfif",
+      "PackagePath": "staticwebassets\\images\\Product\\mobiles.jfif"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\css\\style.css",
+      "PackagePath": "staticwebassets\\template\\css\\style.css"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\css\\style.min.css",
+      "PackagePath": "staticwebassets\\template\\css\\style.min.css"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\img\\BICurrency.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\BICurrency.jpg"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\img\\BritshIndianCureency.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\BritshIndianCureency.jpg"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\img\\CIndiComic.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\CIndiComic.jpg"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\img\\CSuperman.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\CSuperman.jpg"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\img\\Camera.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\Camera.jpg"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\img\\Comic.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\Comic.jpg"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\img\\FWildart.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\FWildart.jpg"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\img\\HSFineArt.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\HSFineArt.jpg"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\img\\HSoldcurrency-transformed.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\HSoldcurrency-transformed.jpg"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\img\\HisotoricCurrency.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\HisotoricCurrency.jpg"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\img\\Oldcurrency1.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\Oldcurrency1.jpg"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\img\\Toys.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\Toys.jpg"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\img\\WAugen.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\WAugen.jpg"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\img\\WHeuer.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\WHeuer.jpg"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\img\\WTiny.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\WTiny.jpg"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\img\\Watches.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\Watches.jpg"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\img\\art (1).webp",
+      "PackagePath": "staticwebassets\\template\\img\\art (1).webp"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\img\\carousel-1.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\carousel-1.jpg"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\img\\carousel-2.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\carousel-2.jpg"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\img\\cat-1.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\cat-1.jpg"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\img\\cat-2.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\cat-2.jpg"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\img\\cat-3.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\cat-3.jpg"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\img\\cat-4.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\cat-4.jpg"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\img\\cat-5.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\cat-5.jpg"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\img\\cat-6.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\cat-6.jpg"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\img\\lucariocar.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\lucariocar.jpg"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\img\\medal.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\medal.jpg"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\img\\military.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\military.jpg"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\img\\offer-1.png",
+      "PackagePath": "staticwebassets\\template\\img\\offer-1.png"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\img\\offer-2.png",
+      "PackagePath": "staticwebassets\\template\\img\\offer-2.png"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\img\\payments.png",
+      "PackagePath": "staticwebassets\\template\\img\\payments.png"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\img\\product-1.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\img\\product-2.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\img\\product-3.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\img\\product-4.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\img\\product-5.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\product-5.jpg"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\img\\product-6.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\product-6.jpg"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\img\\product-7.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\product-7.jpg"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\img\\product-8.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\product-8.jpg"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\img\\starwar.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\starwar.jpg"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\img\\user.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\user.jpg"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\img\\vendor-1.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\vendor-1.jpg"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\img\\vendor-2.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\vendor-2.jpg"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\img\\vendor-3.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\vendor-3.jpg"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\img\\vendor-4.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\vendor-4.jpg"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\img\\vendor-5.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\vendor-5.jpg"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\img\\vendor-6.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\vendor-6.jpg"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\img\\vendor-7.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\vendor-7.jpg"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\img\\vendor-8.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\vendor-8.jpg"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\js\\main.js",
+      "PackagePath": "staticwebassets\\template\\js\\main.js"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\template\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\template\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\template\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\template\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\template\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\template\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\template\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\template\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\template\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\template\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\template\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\template\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\template\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\mail\\contact.js",
+      "PackagePath": "staticwebassets\\template\\mail\\contact.js"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\mail\\contact.php",
+      "PackagePath": "staticwebassets\\template\\mail\\contact.php"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\mail\\jqBootstrapValidation.min.js",
+      "PackagePath": "staticwebassets\\template\\mail\\jqBootstrapValidation.min.js"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\_code.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\_code.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\_custom-forms.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\_input-group.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\_jumbotron.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\_media.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\_media.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\_print.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\_print.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\mixins\\_float.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\mixins\\_size.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\utilities\\_align.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\utilities\\_background.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\utilities\\_display.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\utilities\\_float.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\utilities\\_interactions.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\utilities\\_interactions.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\utilities\\_position.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\utilities\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\utilities\\_text.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\MS.Net\\project\\PawnShop[1]\\PawnShop\\wwwroot\\template\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\style.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PawnShop.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.PawnShop.props",
+      "PackagePath": "build\\PawnShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.PawnShop.props",
+      "PackagePath": "buildMultiTargeting\\PawnShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.PawnShop.props",
+      "PackagePath": "buildTransitive\\PawnShop.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
